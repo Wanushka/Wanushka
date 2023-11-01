@@ -13,7 +13,7 @@ I'm still learning information technology institute of technology University of 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wanushka&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wanushka&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=wanushka&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)

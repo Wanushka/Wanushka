@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm still learning information technology institute of technology University of Moratuwa
+I'm still learning information technology at institute of technology University of Moratuwa.
 
 
 ## 🌐 Socials:

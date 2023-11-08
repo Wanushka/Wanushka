@@ -24,6 +24,3 @@ I'm still learning information technology at institute of technology University 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
- <div align="center">
-	<img src="https://raw.githubusercontent.com/GuardianOfGods/GuardianOfGods/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="ContactCard"> 
-</div>

@@ -11,7 +11,7 @@ I'm still learning information technology at institute of technology University 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wanushka&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wanushka&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wanushka&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wanushka&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
